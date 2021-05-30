@@ -1,0 +1,34 @@
+.main {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.bar_container {
+  font-family: 'Comfortaa', cursive;
+  width: 800px;
+}
+
+.searchBar {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.flex {
+  display: flex;
+}
+
+.select-before {
+  width: 100px;
+}
+
+.select-after {
+  width: 80px;
+}
+
+[data-theme='compact'] .select-before {
+  width: 71px;
+}
+
+[data-theme='compact'] .select-after {
+  width: 65px;
+}

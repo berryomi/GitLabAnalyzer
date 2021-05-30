@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.selectUser {
+    padding-top:10px;
+}
+
+.bgwhite {
+    background-color: white;
+}

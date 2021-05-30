@@ -1,0 +1,27 @@
+.center {
+  margin: auto;
+  margin-top: 20vh;
+}
+
+.center-login {
+  margin: auto;
+  margin-top: 25vh;
+}
+
+.m-bot {
+  margin-bottom: 2rem;
+}
+
+.main_container {
+  position: relative;
+}
+
+.rightalign {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.logout {
+  margin-top: 20px;
+  margin-right: 20px;
+}

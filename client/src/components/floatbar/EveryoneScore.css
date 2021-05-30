@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+}
+  
+.floatbarContainer {
+    display: flex;
+    height: 170px;
+}
+
+.floatbarLabels,
+.scoreContainer {
+    height: 170px;
+}
+
+.floatbarLabels {
+    list-style-type: none;  
+    /* color: black; */
+    font-size: 14px;
+    text-align: right;
+    padding-top: 45px;
+    padding-right: 10px;
+    min-width: 150px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.scoreContainer{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    will-change: transform;  
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(233, 238, 243);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #c8cbd4;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #9ea0a7;
+}
+  
+
+.scoreLabel {
+    line-height: 30px;
+}
+.remainingLabels {
+    line-height: 27px;
+}
+
+.fbMapContainer {
+    display: flex;
+    flex-direction: row;  
+    text-align: right;
+    padding-top: 5px;
+}
+.scoreArray {
+    padding-right: 50px;
+}
+
+.userScore {
+    font-size: 25px;
+}
+.userScoreDetails {
+    font-size: 23px;
+    color:#8C8F90;
+}
+
+.userScore,
+.userScoreDetails {
+    padding-top: 5px;
+    font-weight: bold;
+    line-height: 120%;
+}

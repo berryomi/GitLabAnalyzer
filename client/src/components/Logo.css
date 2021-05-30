@@ -1,0 +1,26 @@
+* {
+  font-family: 'Comfortaa', cursive;
+}
+
+.logo {
+  height: 50px;
+  margin: 0px 10px;
+}
+
+.logo__container {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.makemake {
+  position: absolute;
+  left: 185px;
+  top: -20px;
+}
+
+.logo__main {
+  position: relative;
+  margin: 30px;
+}
