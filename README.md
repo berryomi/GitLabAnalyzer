@@ -6,6 +6,16 @@
 
 <h4 align="center">A web application for analyzing <a href="https://gitlab.com/gitlab-org/gitlab" target="_blank">GitLab</a> repositories. Built for Simon Fraser University course CMPT 373.</h4>
 
+## Members
+
+- Andrew Eng
+- Dang Xuan Anh Tran
+- Henry Fang
+- Thomas Min
+- Jaddie Tan
+- Joshua Guo
+- Jiwon Jun
+
 ## Demo (Iteration 3)
 
 👉 Try it <a href="http://142.58.22.167:6789/">here</a>.
