@@ -6,7 +6,7 @@
 
 <h4 align="center">A web application for analyzing <a href="https://gitlab.com/gitlab-org/gitlab" target="_blank">GitLab</a> repositories. Built for Simon Fraser University course CMPT 373.</h4>
 
-## Members
+## Contributors
 
 - Andrew Eng
 - Dang Xuan Anh Tran
